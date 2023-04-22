@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+>>>>>>> df9aa78e0e970749040894aec2d8da8189771fdf
+*.gz
+*.xml
+.Rhistory
+.Rhistory
